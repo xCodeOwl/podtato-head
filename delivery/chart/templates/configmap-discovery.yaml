@@ -1,4 +1,4 @@
-{{ $componentName := "service-discovery" }}
+{{ $componentName := "svc-discover" }}
 ---
 apiVersion: v1
 kind: ConfigMap

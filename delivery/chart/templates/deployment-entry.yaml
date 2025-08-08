@@ -82,4 +82,4 @@ spec:
       volumes:
         - name: service-discovery-map
           configMap:
-              name: {{ printf "%s-%s" (include "podtato-head.fullname" .) "service-discovery" }}
+              name: {{ printf "%s-%s" (include "podtato-head.fullname" .) "svc-discover" }}

@@ -1,3 +1,4 @@
 .env
 .github/workflows/cosign.*
 temp/
+.DS_STORE

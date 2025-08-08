@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: ConfigMap
 metadata:
-  name: podtato-head-svc-discover
+  name: podtato-head-svc-disc
   labels:
     app.kubernetes.io/name: podtato-head
     app.kubernetes.io/component: entry

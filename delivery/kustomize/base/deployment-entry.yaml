@@ -52,4 +52,4 @@ spec:
       volumes:
         - name: service-discovery-map
           configMap:
-              name: podtato-head-svc-discover
+              name: podtato-head-svc-disc

@@ -25,7 +25,7 @@ hat:
   servicePort: 9001
   env: []
   #   - name: PODTATO_PART_NUMBER
-  #     value: "01"
+  #     value: "02"
 leftLeg:
   repositoryBasename: left-leg
   tag: "latest"
@@ -41,7 +41,7 @@ leftArm:
   servicePort: 9003
   env: []
   #   - name: PODTATO_PART_NUMBER
-  #     value: "01"
+  #     value: "03"
 rightLeg:
   repositoryBasename: right-leg
   tag: "latest"

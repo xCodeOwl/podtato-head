@@ -1,4 +1,4 @@
-nameOverride: ""
+nameOverride: "pottohad"
 fullnameOverride: "pottohad"
 
 # applies to all deployments in this chart
